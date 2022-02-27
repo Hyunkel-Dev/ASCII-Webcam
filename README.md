@@ -4,10 +4,8 @@
 Display your webcam as an ASCII image.
 
 ## Features
-- WIDTH: the width (in characters) of the output image, the height is then calculated with the image ratio
-- ASCII: a predefined string that ranks the characters from lightest to darkest
-- STOP_KEY: the key code to stop the program (here ESC)
-- FPS: the number of images captured by the webcam per second
+![image](https://user-images.githubusercontent.com/66129931/155897198-e67d6f67-2104-4aa7-8206-5ed636eace7d.png)
+
 
 ## Dependencies
 - OpenCV (cv2) library
