@@ -1,7 +1,7 @@
 # ASCII-Webcam
 
 ## Description
-![image](https://user-images.githubusercontent.com/66129931/155897462-e7f7f84e-8520-4c65-9c41-6cc8e49a3a77.png)
+![image](https://user-images.githubusercontent.com/66129931/155897821-591586d2-80a1-4e7c-95da-5dbdd8eb6115.png)
 
 ## Features
 ![image](https://user-images.githubusercontent.com/66129931/155897424-201d0bb9-51d2-4ae5-bd18-d30dabcc9d54.png)
